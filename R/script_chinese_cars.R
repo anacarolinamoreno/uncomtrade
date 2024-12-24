@@ -1,5 +1,3 @@
-
-
 #Using the comtradr package
 #Source: https://github.com/ropensci/comtradr
 
@@ -54,7 +52,7 @@ example2 <- ct_get_data(
   commodity_code = wine_codes
 )
 
-#Example 3: finding a class of itens using a code and exporting country to all partners:
+#Example 3: finding a class of items using a code and exporting country to all partners:
 
 cars_codes2 <- ct_commodity_lookup(8703, return_code = TRUE, return_char = TRUE)
 
