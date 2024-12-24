@@ -1,0 +1,933 @@
+"ref_year","name_flourish","nome_portugues","continente","latitude","longitude","image_url","contagem","unidades","valor"
+2017,"Albania","Albânia","Europa",41.32,19.82,"https://public.flourish.studio/country-flags/svg/al.svg",1,0,10763
+2017,"Angola","Angola","África",-8.83,13.22,"https://public.flourish.studio/country-flags/svg/ao.svg",1,0,7000
+2017,"Antigua and Barbuda","Antígua e Barbuda","América Central",17.12,-61.85,"https://public.flourish.studio/country-flags/svg/ag.svg",1,0,23312
+2017,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,0,208329
+2017,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,0,338923
+2017,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,0,236300
+2017,"Azerbaijan","Azerbaijão","Ásia",40.38,49.87,"https://public.flourish.studio/country-flags/svg/az.svg",1,0,2688
+2017,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,0,63492793
+2017,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,0,25680
+2017,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,0,56780
+2017,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,0,33923
+2017,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,0,30031
+2017,"Bolivia","Bolívia","América do Sul",-16.5,-68.15,"https://public.flourish.studio/country-flags/svg/bo.svg",1,0,9800
+2017,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,0,1804413
+2017,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,0,52928
+2017,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,0,38340
+2017,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,0,144588
+2017,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,0,146936
+2017,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,0,81388
+2017,"Cote d'Ivoire","Costa do Marfim","África",6.82,-5.27,"https://public.flourish.studio/country-flags/svg/ci.svg",1,0,3042
+2017,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,0,43930
+2017,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,0,7900
+2017,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,0,30563
+2017,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,0,492048
+2017,"Ecuador","Equador","América do Sul",-0.22,-78.5,"https://public.flourish.studio/country-flags/svg/ec.svg",1,0,1315472
+2017,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,0,30270
+2017,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,0,15896
+2017,"Fiji","Fiji","Oceania",-18.13,178.42,"https://public.flourish.studio/country-flags/svg/fj.svg",1,0,8467
+2017,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,0,342682
+2017,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,0,54941
+2017,"Georgia","Geórgia","Ásia",41.68,44.83,"https://public.flourish.studio/country-flags/svg/ge.svg",1,0,65775
+2017,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,0,1074588
+2017,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,0,425
+2017,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,0,198228
+2017,"Guatemala","Guatemala","América Central",14.62,-90.52,"https://public.flourish.studio/country-flags/svg/gt.svg",1,0,49326
+2017,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,0,125725
+2017,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,0,8680
+2017,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,0,1030
+2017,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,0,7724880
+2017,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,0,24742
+2017,"Iran","Irã","Ásia",35.7,51.42,"https://public.flourish.studio/country-flags/svg/ir.svg",1,0,156689
+2017,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,0,4276
+2017,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,0,7250
+2017,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,0,734739
+2017,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,0,7673972
+2017,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,0,5568588
+2017,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,0,70929
+2017,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,0,14580
+2017,"Kenya","Quênia","África",-1.28,36.82,"https://public.flourish.studio/country-flags/svg/ke.svg",1,0,33855
+2017,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,0,6250
+2017,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,0,33000
+2017,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,0,39744
+2017,"Liberia","Libéria","África",6.3,-10.8,"https://public.flourish.studio/country-flags/svg/lr.svg",1,0,14240
+2017,"Lithuania","Lituânia","Europa",54.68,25.32,"https://public.flourish.studio/country-flags/svg/lt.svg",1,0,1540
+2017,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,0,576914
+2017,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,0,32153
+2017,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,0,17862
+2017,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,0,31612
+2017,"Malta","Malta","Europa",35.88,14.5,"https://public.flourish.studio/country-flags/svg/mt.svg",1,0,38531
+2017,"Mauritius","Maurício","África",-20.15,57.48,"https://public.flourish.studio/country-flags/svg/mu.svg",1,0,3720
+2017,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,0,196650
+2017,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,0,54153
+2017,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,0,24260
+2017,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,0,21341
+2017,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,0,96103
+2017,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,0,347761
+2017,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,0,902939
+2017,"New Caledonia","Nova Caledônia","Oceania",-22.27,166.45,"https://public.flourish.studio/country-flags/svg/nc.svg",1,0,12000
+2017,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,0,51127
+2017,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,0,21893
+2017,"North Korea","Coreia do Norte","Ásia",39.02,125.75,"https://public.flourish.studio/country-flags/svg/kp.svg",1,0,472505
+2017,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,0,1190
+2017,"Oman","Omã","Ásia",23.62,58.58,"https://public.flourish.studio/country-flags/svg/om.svg",1,0,300
+2017,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,0,192986
+2017,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,0,233
+2017,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,0,64887
+2017,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,0,571095
+2017,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,0,149612
+2017,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,0,133739
+2017,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,0,217145
+2017,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,0,15823
+2017,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,0,91725
+2017,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,0,48420
+2017,"Senegal","Senegal","África",14.73,-17.63,"https://public.flourish.studio/country-flags/svg/sn.svg",1,0,25250
+2017,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,0,5189092
+2017,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,0,169560
+2017,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,0,162595
+2017,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,0,12915
+2017,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,0,2640693
+2017,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,0,32964
+2017,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,0,521378
+2017,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,0,214916
+2017,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,0,2990
+2017,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,0,759426
+2017,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,0,59360
+2017,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,0,56850
+2017,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,0,32046
+2017,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,0,355509
+2017,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,0,90303
+2017,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,0,1722583
+2017,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,0,352064
+2017,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,0,67958
+2017,"Vanuatu","Vanuatu","Oceania",-17.73,168.32,"https://public.flourish.studio/country-flags/svg/vu.svg",1,0,7361
+2017,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,0,185558
+2017,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,0,87327
+2017,NA,NA,NA,NA,NA,NA,1,0,110319
+2018,"Albania","Albânia","Europa",41.32,19.82,"https://public.flourish.studio/country-flags/svg/al.svg",1,7,18507
+2018,"Algeria","Argélia","África",36.75,3.05,"https://public.flourish.studio/country-flags/svg/dz.svg",1,1,155
+2018,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,13,95963
+2018,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,23,14497
+2018,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,22,257573
+2018,"Azerbaijan","Azerbaijão","Ásia",40.38,49.87,"https://public.flourish.studio/country-flags/svg/az.svg",1,6,48183
+2018,"Bahamas","Bahamas","América Central",25.08,-77.35,"https://public.flourish.studio/country-flags/svg/bs.svg",1,5,138283
+2018,"Bahrain","Bahrein","Ásia",26.23,50.57,"https://public.flourish.studio/country-flags/svg/bh.svg",1,4,6400
+2018,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,101326,72656701
+2018,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,1,25000
+2018,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,4,96124
+2018,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,54,617171
+2018,"Belize","Belize","América Central",17.25,-88.77,"https://public.flourish.studio/country-flags/svg/bz.svg",1,2,6850
+2018,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,8,47680
+2018,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,40,261243
+2018,"Brunei","Brunei","Ásia",4.88,114.93,"https://public.flourish.studio/country-flags/svg/bn.svg",1,28,25889
+2018,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,68,339458
+2018,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,25,51126
+2018,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,316,249045
+2018,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,48,518134
+2018,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,86,1620157
+2018,"Costa Rica","Costa Rica","América Central",9.93,-84.08,"https://public.flourish.studio/country-flags/svg/cr.svg",1,40,182681
+2018,"Cote d'Ivoire","Costa do Marfim","África",6.82,-5.27,"https://public.flourish.studio/country-flags/svg/ci.svg",1,5,28117
+2018,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,7,65967
+2018,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,4,48000
+2018,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,39,57214
+2018,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,605,1055623
+2018,"Dominican Republic","República Dominicana","América Central",18.47,-69.9,"https://public.flourish.studio/country-flags/svg/do.svg",1,23,222313
+2018,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,50,256101
+2018,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,2,1444
+2018,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,241,545530
+2018,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,76,366825
+2018,"French Polynesia","Polinésia Francesa","Oceania",-17.53,-149.57,"https://public.flourish.studio/country-flags/svg/pf.svg",1,3,49459
+2018,"Georgia","Geórgia","Ásia",41.68,44.83,"https://public.flourish.studio/country-flags/svg/ge.svg",1,56,122052
+2018,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,578,5011708
+2018,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,6,20160
+2018,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,138,509613
+2018,"Guatemala","Guatemala","América Central",14.62,-90.52,"https://public.flourish.studio/country-flags/svg/gt.svg",1,17,52290
+2018,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,4,106159
+2018,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,43,102433
+2018,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,29,22909
+2018,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,27692,13181832
+2018,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,61,953684
+2018,"Iran","Irã","Ásia",35.7,51.42,"https://public.flourish.studio/country-flags/svg/ir.svg",1,4,110694
+2018,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,268,223355
+2018,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,2,21878
+2018,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,341,1006325
+2018,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,115,979514
+2018,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,175,1001683
+2018,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,21,271098
+2018,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,137,98315
+2018,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,10,51132
+2018,"Kyrgyzstan","Quirguistão","Ásia",42.87,74.6,"https://public.flourish.studio/country-flags/svg/kg.svg",1,9,47150
+2018,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,7,50000
+2018,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,134,97534
+2018,"Liberia","Libéria","África",6.3,-10.8,"https://public.flourish.studio/country-flags/svg/lr.svg",1,8,4400
+2018,"Libya","Líbia","África",32.88,13.17,"https://public.flourish.studio/country-flags/svg/ly.svg",1,3,7546
+2018,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,28,1033208
+2018,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,23,36628
+2018,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,27,132632
+2018,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,13,29477
+2018,"Marshall Islands","Ilhas Marshall","Oceania",7.1,171.38,"https://public.flourish.studio/country-flags/svg/mh.svg",1,2,13182
+2018,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,85,409004
+2018,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,3,15724
+2018,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,1,1200
+2018,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,44,26790
+2018,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,16,212705
+2018,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,603,912599
+2018,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,79,321133
+2018,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,34,127150
+2018,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,2,9075
+2018,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,10,140001
+2018,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,32,139868
+2018,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,12,51115
+2018,"Paraguay","Paraguai","América do Sul",-25.27,-57.67,"https://public.flourish.studio/country-flags/svg/py.svg",1,35,826200
+2018,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,18,65455
+2018,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,2442,1290522
+2018,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,81,830003
+2018,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,254,226981
+2018,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,40,196406
+2018,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,75,41843
+2018,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,23,92830
+2018,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,39,218727
+2018,"Senegal","Senegal","África",14.73,-17.63,"https://public.flourish.studio/country-flags/svg/sn.svg",1,1,1950
+2018,"Serbia","Sérvia","Europa",44.83,20.5,"https://public.flourish.studio/country-flags/svg/rs.svg",1,1,4650
+2018,"Seychelles","Seicheles","África",-4.62,55.45,"https://public.flourish.studio/country-flags/svg/sc.svg",1,1,6100
+2018,"Sierra Leone","Serra Leoa","África",8.48,-13.23,"https://public.flourish.studio/country-flags/svg/sl.svg",1,4,9015
+2018,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,5,88458
+2018,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,22,230460
+2018,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,4,17020
+2018,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,5,25117
+2018,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,2084,6042540
+2018,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,43,204751
+2018,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,6,17988
+2018,"Sudan","Sudão","África",15.6,32.53,"https://public.flourish.studio/country-flags/svg/sd.svg",1,25,151790
+2018,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,233,981208
+2018,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,35,121948
+2018,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,282,4594469
+2018,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,76,67980
+2018,"Togo","Togo","África",6.12,1.22,"https://public.flourish.studio/country-flags/svg/tg.svg",1,1,4482
+2018,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,476,352036
+2018,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,801,332765
+2018,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,40,238320
+2018,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,47,650208
+2018,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,313,2295034
+2018,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,69,1381977
+2018,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,17,51010
+2018,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,20,129397
+2018,"Zambia","Zâmbia","África",-15.42,28.28,"https://public.flourish.studio/country-flags/svg/zm.svg",1,1,500
+2018,"Zimbabwe","Zimbábue","África",-17.82,31.03,"https://public.flourish.studio/country-flags/svg/zw.svg",1,1,1650
+2018,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,66,313923
+2018,NA,NA,NA,NA,NA,NA,1,4,21673
+2019,"Albania","Albânia","Europa",41.32,19.82,"https://public.flourish.studio/country-flags/svg/al.svg",1,5,54130
+2019,"Angola","Angola","África",-8.83,13.22,"https://public.flourish.studio/country-flags/svg/ao.svg",1,673,3362970
+2019,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,9,62208
+2019,"Armenia","Armênia","Ásia",40.17,44.5,"https://public.flourish.studio/country-flags/svg/am.svg",1,26,561242
+2019,"Aruba","Aruba","América Central",12.52,-70.03,"https://public.flourish.studio/country-flags/svg/aw.svg",1,2,15519
+2019,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,56,1095340
+2019,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,210,3927528
+2019,"Bahamas","Bahamas","América Central",25.08,-77.35,"https://public.flourish.studio/country-flags/svg/bs.svg",1,35,813267
+2019,"Bahrain","Bahrein","Ásia",26.23,50.57,"https://public.flourish.studio/country-flags/svg/bh.svg",1,5,37861
+2019,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,143680,91759681
+2019,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,3,35601
+2019,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,17,37035
+2019,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,69,901485
+2019,"Belize","Belize","América Central",17.25,-88.77,"https://public.flourish.studio/country-flags/svg/bz.svg",1,4,11576
+2019,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,90,538916
+2019,"Bolivia","Bolívia","América do Sul",-16.5,-68.15,"https://public.flourish.studio/country-flags/svg/bo.svg",1,231,822550
+2019,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,396,5141911
+2019,"Brunei","Brunei","Ásia",4.88,114.93,"https://public.flourish.studio/country-flags/svg/bn.svg",1,12,111364
+2019,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,56,269310
+2019,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,63,127321
+2019,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,353,2370212
+2019,"Cape Verde","Cabo Verde","África",14.92,-23.52,"https://public.flourish.studio/country-flags/svg/cv.svg",1,2,33000
+2019,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,167,2968224
+2019,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,310,3210015
+2019,"Congo","Congo","África",-4.25,15.28,"https://public.flourish.studio/country-flags/svg/cg.svg",1,2,500
+2019,"Costa Rica","Costa Rica","América Central",9.93,-84.08,"https://public.flourish.studio/country-flags/svg/cr.svg",1,69,1497395
+2019,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,10,63633
+2019,"Cuba","Cuba","América Central",23.12,-82.35,"https://public.flourish.studio/country-flags/svg/cu.svg",1,23,45540
+2019,"Curacao","Curaçao","América Central",12.1,-68.92,"https://public.flourish.studio/country-flags/svg/cw.svg",1,2,25275
+2019,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,11,42118
+2019,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,26,48562
+2019,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,698,1230886
+2019,"Dominican Republic","República Dominicana","América Central",18.47,-69.9,"https://public.flourish.studio/country-flags/svg/do.svg",1,75,960678
+2019,"Ecuador","Equador","América do Sul",-0.22,-78.5,"https://public.flourish.studio/country-flags/svg/ec.svg",1,133,2092420
+2019,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,226,540205
+2019,"El Salvador","El Salvador","América Central",13.7,-89.2,"https://public.flourish.studio/country-flags/svg/sv.svg",1,1,5661
+2019,"Estonia","Estônia","Europa",59.43,24.72,"https://public.flourish.studio/country-flags/svg/ee.svg",1,1,10900
+2019,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,2,1309
+2019,"Fiji","Fiji","Oceania",-18.13,178.42,"https://public.flourish.studio/country-flags/svg/fj.svg",1,2,600
+2019,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,246,530604
+2019,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,110,692604
+2019,"French Polynesia","Polinésia Francesa","Oceania",-17.53,-149.57,"https://public.flourish.studio/country-flags/svg/pf.svg",1,13,295202
+2019,"Georgia","Geórgia","Ásia",41.68,44.83,"https://public.flourish.studio/country-flags/svg/ge.svg",1,351,1149341
+2019,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,1200,11676891
+2019,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,111,76530
+2019,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,123,331344
+2019,"Grenada","Granada","América Central",12.05,-61.75,"https://public.flourish.studio/country-flags/svg/gd.svg",1,4,60127
+2019,"Guatemala","Guatemala","América Central",14.62,-90.52,"https://public.flourish.studio/country-flags/svg/gt.svg",1,7,70772
+2019,"Guinea","Guiné","África",9.5,-13.7,"https://public.flourish.studio/country-flags/svg/gn.svg",1,4,8710
+2019,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,8,106588
+2019,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,82,178720
+2019,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,10,112816
+2019,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,63293,28885708
+2019,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,11,135016
+2019,"Iran","Irã","Ásia",35.7,51.42,"https://public.flourish.studio/country-flags/svg/ir.svg",1,16,93040
+2019,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,231,170991
+2019,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,1,2005
+2019,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,484,7201009
+2019,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,131,1505364
+2019,"Jamaica","Jamaica","América Central",18,-76.8,"https://public.flourish.studio/country-flags/svg/jm.svg",1,2,4170
+2019,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,544,4323050
+2019,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,16,192034
+2019,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,26,82707
+2019,"Kenya","Quênia","África",-1.28,36.82,"https://public.flourish.studio/country-flags/svg/ke.svg",1,10,32669
+2019,"Kiribati","Kiribati","Oceania",-0.88,169.53,"https://public.flourish.studio/country-flags/svg/ki.svg",1,1,1050
+2019,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,53,201122
+2019,"Kyrgyzstan","Quirguistão","Ásia",42.87,74.6,"https://public.flourish.studio/country-flags/svg/kg.svg",1,6,69030
+2019,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,42,576229
+2019,"Latvia","Letônia","Europa",56.95,24.1,"https://public.flourish.studio/country-flags/svg/lv.svg",1,22,51857
+2019,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,171,633355
+2019,"Libya","Líbia","África",32.88,13.17,"https://public.flourish.studio/country-flags/svg/ly.svg",1,6,12233
+2019,"Lithuania","Lituânia","Europa",54.68,25.32,"https://public.flourish.studio/country-flags/svg/lt.svg",1,2,6400
+2019,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,18,898087
+2019,"Macedonia, FYR","Macedônia do Norte","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/mk.svg",1,1,4178
+2019,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,81,69230
+2019,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,37,355119
+2019,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,37,61850
+2019,"Malta","Malta","Europa",35.88,14.5,"https://public.flourish.studio/country-flags/svg/mt.svg",1,121,433925
+2019,"Mauritius","Maurício","África",-20.15,57.48,"https://public.flourish.studio/country-flags/svg/mu.svg",1,6,82838
+2019,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,206,2047306
+2019,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,24,145214
+2019,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,10,2796714
+2019,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,2,500
+2019,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,21,93660
+2019,"Namibia","Namíbia","África",-22.57,17.08,"https://public.flourish.studio/country-flags/svg/na.svg",1,2,341
+2019,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,1360,3888801
+2019,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,5721,109529874
+2019,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,21,66920
+2019,"Nicaragua","Nicarágua","América Central",12.13,-86.25,"https://public.flourish.studio/country-flags/svg/ni.svg",1,3,4500
+2019,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,7,27690
+2019,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,129,2389172
+2019,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,13,24464
+2019,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,4,29922
+2019,"Papua New Guinea","Papua-Nova Guiné","Oceania",-9.45,147.18,"https://public.flourish.studio/country-flags/svg/pg.svg",1,2,7231
+2019,"Paraguay","Paraguai","América do Sul",-25.27,-57.67,"https://public.flourish.studio/country-flags/svg/py.svg",1,64,1231130
+2019,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,41,138126
+2019,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,5236,2975051
+2019,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,113,409660
+2019,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,234,242529
+2019,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,6,17158
+2019,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,89,112468
+2019,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,86,104474
+2019,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,51,708865
+2019,"Serbia","Sérvia","Europa",44.83,20.5,"https://public.flourish.studio/country-flags/svg/rs.svg",1,14,84075
+2019,"Seychelles","Seicheles","África",-4.62,55.45,"https://public.flourish.studio/country-flags/svg/sc.svg",1,2,14775
+2019,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,194,5793016
+2019,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,2,16675
+2019,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,45,453006
+2019,"Solomon Islands","Ilhas Salomão","Oceania",-9.43,159.95,"https://public.flourish.studio/country-flags/svg/sb.svg",1,1,1680
+2019,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,7,61431
+2019,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,2003,6343180
+2019,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,72,1046531
+2019,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,40,810734
+2019,"Sudan","Sudão","África",15.6,32.53,"https://public.flourish.studio/country-flags/svg/sd.svg",1,3,46732
+2019,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,173,3714316
+2019,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,99,354184
+2019,"Tanzania","Tanzânia","África",-6.8,39.28,"https://public.flourish.studio/country-flags/svg/tz.svg",1,5,8548
+2019,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,4167,43455495
+2019,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,102,116111
+2019,"Tunisia","Tunísia","África",36.8,10.18,"https://public.flourish.studio/country-flags/svg/tn.svg",1,1,24064
+2019,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,643,588446
+2019,"Turkmenistan","Turcomenistão","Ásia",37.95,58.38,"https://public.flourish.studio/country-flags/svg/tm.svg",1,1,12450
+2019,"Uganda","Uganda","África",0.32,32.55,"https://public.flourish.studio/country-flags/svg/ug.svg",1,1,8580
+2019,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,73,945544
+2019,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,32,350432
+2019,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,2826,53725224
+2019,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,334,2688526
+2019,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,198,1729805
+2019,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,42,515473
+2019,"Vanuatu","Vanuatu","Oceania",-17.73,168.32,"https://public.flourish.studio/country-flags/svg/vu.svg",1,1,14980
+2019,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,346,1638985
+2019,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,50,287044
+2019,NA,NA,NA,NA,NA,NA,1,11,46920
+2020,"Albania","Albânia","Europa",41.32,19.82,"https://public.flourish.studio/country-flags/svg/al.svg",1,3,8639
+2020,"Angola","Angola","África",-8.83,13.22,"https://public.flourish.studio/country-flags/svg/ao.svg",1,373,1592262
+2020,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,41,106598
+2020,"Armenia","Armênia","Ásia",40.17,44.5,"https://public.flourish.studio/country-flags/svg/am.svg",1,21,490188
+2020,"Aruba","Aruba","América Central",12.52,-70.03,"https://public.flourish.studio/country-flags/svg/aw.svg",1,3,59829
+2020,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,582,10315693
+2020,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,14,177821
+2020,"Azerbaijan","Azerbaijão","Ásia",40.38,49.87,"https://public.flourish.studio/country-flags/svg/az.svg",1,3,11230
+2020,"Bahamas","Bahamas","América Central",25.08,-77.35,"https://public.flourish.studio/country-flags/svg/bs.svg",1,132,3160650
+2020,"Bahrain","Bahrein","Ásia",26.23,50.57,"https://public.flourish.studio/country-flags/svg/bh.svg",1,4,24800
+2020,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,76866,52554157
+2020,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,69,1617144
+2020,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,44,616311
+2020,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,14078,348835745
+2020,"Belize","Belize","América Central",17.25,-88.77,"https://public.flourish.studio/country-flags/svg/bz.svg",1,2,30943
+2020,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,28,247863
+2020,"Bhutan","Butão","Ásia",27.47,89.63,"https://public.flourish.studio/country-flags/svg/bt.svg",1,1,6880
+2020,"Bolivia","Bolívia","América do Sul",-16.5,-68.15,"https://public.flourish.studio/country-flags/svg/bo.svg",1,61,315248
+2020,"Botswana","Botsuana","África",-24.63,25.9,"https://public.flourish.studio/country-flags/svg/bw.svg",1,8,18501
+2020,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,201,1282962
+2020,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,178,138858
+2020,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,25,212655
+2020,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,730,16424410
+2020,"Cape Verde","Cabo Verde","África",14.92,-23.52,"https://public.flourish.studio/country-flags/svg/cv.svg",1,5,92608
+2020,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,127,1173436
+2020,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,451,5800551
+2020,"Costa Rica","Costa Rica","América Central",9.93,-84.08,"https://public.flourish.studio/country-flags/svg/cr.svg",1,191,4442218
+2020,"Cote d'Ivoire","Costa do Marfim","África",6.82,-5.27,"https://public.flourish.studio/country-flags/svg/ci.svg",1,35,51497
+2020,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,15,50769
+2020,"Cuba","Cuba","América Central",23.12,-82.35,"https://public.flourish.studio/country-flags/svg/cu.svg",1,1059,1094977
+2020,"Curacao","Curaçao","América Central",12.1,-68.92,"https://public.flourish.studio/country-flags/svg/cw.svg",1,24,364693
+2020,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,8,46939
+2020,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,11,35187
+2020,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,995,1931483
+2020,"Djibouti","Djibuti","África",11.58,43.15,"https://public.flourish.studio/country-flags/svg/dj.svg",1,11,40706
+2020,"Dominican Republic","República Dominicana","América Central",18.47,-69.9,"https://public.flourish.studio/country-flags/svg/do.svg",1,118,959760
+2020,"Ecuador","Equador","América do Sul",-0.22,-78.5,"https://public.flourish.studio/country-flags/svg/ec.svg",1,127,2453317
+2020,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,147,671346
+2020,"Equatorial Guinea","Guiné Equatorial","África",3.75,8.78,"https://public.flourish.studio/country-flags/svg/gq.svg",1,11,59750
+2020,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,24,148510
+2020,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,294,682120
+2020,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,419,5269190
+2020,"French Polynesia","Polinésia Francesa","Oceania",-17.53,-149.57,"https://public.flourish.studio/country-flags/svg/pf.svg",1,30,562076
+2020,"Georgia","Geórgia","Ásia",41.68,44.83,"https://public.flourish.studio/country-flags/svg/ge.svg",1,46,426855
+2020,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,6087,190261031
+2020,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,25,171391
+2020,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,134,725194
+2020,"Grenada","Granada","América Central",12.05,-61.75,"https://public.flourish.studio/country-flags/svg/gd.svg",1,1,21060
+2020,"Guinea","Guiné","África",9.5,-13.7,"https://public.flourish.studio/country-flags/svg/gn.svg",1,21,29140
+2020,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,98,646476
+2020,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,24,62841
+2020,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,11,67349
+2020,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,43834,19827762
+2020,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,6,71091
+2020,"Iran","Irã","Ásia",35.7,51.42,"https://public.flourish.studio/country-flags/svg/ir.svg",1,10,15420
+2020,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,262,116086
+2020,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,12,32687
+2020,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,1401,29646654
+2020,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,357,3793729
+2020,"Jamaica","Jamaica","América Central",18,-76.8,"https://public.flourish.studio/country-flags/svg/jm.svg",1,589,651226
+2020,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,282,2296358
+2020,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,30,195612
+2020,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,20,510806
+2020,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,61,324707
+2020,"Kyrgyzstan","Quirguistão","Ásia",42.87,74.6,"https://public.flourish.studio/country-flags/svg/kg.svg",1,9,70865
+2020,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,21,291572
+2020,"Latvia","Letônia","Europa",56.95,24.1,"https://public.flourish.studio/country-flags/svg/lv.svg",1,14,52716
+2020,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,3,14086
+2020,"Libya","Líbia","África",32.88,13.17,"https://public.flourish.studio/country-flags/svg/ly.svg",1,165,81775
+2020,"Lithuania","Lituânia","Europa",54.68,25.32,"https://public.flourish.studio/country-flags/svg/lt.svg",1,17,121343
+2020,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,45,3015967
+2020,"Macedonia, FYR","Macedônia do Norte","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/mk.svg",1,3,19780
+2020,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,15,13635
+2020,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,11,7473
+2020,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,3,13490
+2020,"Malta","Malta","Europa",35.88,14.5,"https://public.flourish.studio/country-flags/svg/mt.svg",1,17,66524
+2020,"Mauritius","Maurício","África",-20.15,57.48,"https://public.flourish.studio/country-flags/svg/mu.svg",1,9,179478
+2020,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,334,2784157
+2020,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,14,356100
+2020,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,2,45500
+2020,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,1,2090
+2020,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,9,87546
+2020,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,1074,4049818
+2020,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,7732,203620361
+2020,"New Caledonia","Nova Caledônia","Oceania",-22.27,166.45,"https://public.flourish.studio/country-flags/svg/nc.svg",1,33,529232
+2020,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,265,5940037
+2020,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,51,80466
+2020,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,4868,183777275
+2020,"Oman","Omã","Ásia",23.62,58.58,"https://public.flourish.studio/country-flags/svg/om.svg",1,9,34882
+2020,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,20,215793
+2020,"Palau","Palau","Oceania",7.48,134.63,"https://public.flourish.studio/country-flags/svg/pw.svg",1,4,16640
+2020,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,11,211123
+2020,"Papua New Guinea","Papua-Nova Guiné","Oceania",-9.45,147.18,"https://public.flourish.studio/country-flags/svg/pg.svg",1,1,4834
+2020,"Paraguay","Paraguai","América do Sul",-25.27,-57.67,"https://public.flourish.studio/country-flags/svg/py.svg",1,30,483299
+2020,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,77,122397
+2020,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,3497,2191058
+2020,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,113,372118
+2020,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,286,277945
+2020,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,25,121921
+2020,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,59,182996
+2020,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,74,109631
+2020,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,54,936639
+2020,"Serbia","Sérvia","Europa",44.83,20.5,"https://public.flourish.studio/country-flags/svg/rs.svg",1,44,202045
+2020,"Sierra Leone","Serra Leoa","África",8.48,-13.23,"https://public.flourish.studio/country-flags/svg/sl.svg",1,1,2085
+2020,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,126,2737499
+2020,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,30,183032
+2020,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,7,54836
+2020,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,7,78153
+2020,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,3670,12318341
+2020,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,192,2210223
+2020,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,10,135979
+2020,"Sudan","Sudão","África",15.6,32.53,"https://public.flourish.studio/country-flags/svg/sd.svg",1,4,14900
+2020,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,2613,99301486
+2020,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,418,12607165
+2020,"Tanzania","Tanzânia","África",-6.8,39.28,"https://public.flourish.studio/country-flags/svg/tz.svg",1,5,12047
+2020,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,3127,4764224
+2020,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,70,78571
+2020,"Trinidad and Tobago","Trindade e Tobago","América Central",10.65,-61.52,"https://public.flourish.studio/country-flags/svg/tt.svg",1,1,3300
+2020,"Tunisia","Tunísia","África",36.8,10.18,"https://public.flourish.studio/country-flags/svg/tn.svg",1,3,71961
+2020,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,514,339255
+2020,"Turks and Caicos Islands","Ilhas Turcas e Caicos","América Central",21.47,-71.13,"https://public.flourish.studio/country-flags/svg/tc.svg",1,4,31100
+2020,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,186,1835846
+2020,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,142,1534359
+2020,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,9555,218092644
+2020,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,2758,91555186
+2020,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,235,2654884
+2020,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,182,2439822
+2020,"Vanuatu","Vanuatu","Oceania",-17.73,168.32,"https://public.flourish.studio/country-flags/svg/vu.svg",1,1,15128
+2020,"Venezuela","Venezuela","América do Sul",10.48,-66.87,"https://public.flourish.studio/country-flags/svg/ve.svg",1,32,219736
+2020,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,26,293928
+2020,"Zimbabwe","Zimbábue","África",-17.82,31.03,"https://public.flourish.studio/country-flags/svg/zw.svg",1,6,171382
+2020,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,62,137080
+2020,NA,NA,NA,NA,NA,NA,2,19,199763
+2021,"Algeria","Argélia","África",36.75,3.05,"https://public.flourish.studio/country-flags/svg/dz.svg",1,4,38180
+2021,"Angola","Angola","África",-8.83,13.22,"https://public.flourish.studio/country-flags/svg/ao.svg",1,259,1124680
+2021,"Antigua and Barbuda","Antígua e Barbuda","América Central",17.12,-61.85,"https://public.flourish.studio/country-flags/svg/ag.svg",1,1,17000
+2021,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,349,903199
+2021,"Armenia","Armênia","Ásia",40.17,44.5,"https://public.flourish.studio/country-flags/svg/am.svg",1,20,349346
+2021,"Aruba","Aruba","América Central",12.52,-70.03,"https://public.flourish.studio/country-flags/svg/aw.svg",1,28,623473
+2021,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,14479,409520706
+2021,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,705,22934765
+2021,"Azerbaijan","Azerbaijão","Ásia",40.38,49.87,"https://public.flourish.studio/country-flags/svg/az.svg",1,14,176400
+2021,"Bahamas","Bahamas","América Central",25.08,-77.35,"https://public.flourish.studio/country-flags/svg/bs.svg",1,61,2215824
+2021,"Bahrain","Bahrein","Ásia",26.23,50.57,"https://public.flourish.studio/country-flags/svg/bh.svg",1,7,130726
+2021,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,82560,62766268
+2021,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,155,3669243
+2021,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,232,4844228
+2021,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,87449,2456617511
+2021,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,38,431911
+2021,"Bhutan","Butão","Ásia",27.47,89.63,"https://public.flourish.studio/country-flags/svg/bt.svg",1,26,466077
+2021,"Bolivia","Bolívia","América do Sul",-16.5,-68.15,"https://public.flourish.studio/country-flags/svg/bo.svg",1,58,920126
+2021,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,480,5914523
+2021,"Brunei","Brunei","Ásia",4.88,114.93,"https://public.flourish.studio/country-flags/svg/bn.svg",1,5,88110
+2021,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,468,270908
+2021,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,85,2271056
+2021,"Cameroon","Camarões","África",3.87,11.52,"https://public.flourish.studio/country-flags/svg/cm.svg",1,3,7200
+2021,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,980,23524049
+2021,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,905,4112999
+2021,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,639,9897142
+2021,"Comoros","Comores","África",-11.7,43.23,"https://public.flourish.studio/country-flags/svg/km.svg",1,1,4804
+2021,"Costa Rica","Costa Rica","América Central",9.93,-84.08,"https://public.flourish.studio/country-flags/svg/cr.svg",1,585,14096939
+2021,"Cote d'Ivoire","Costa do Marfim","África",6.82,-5.27,"https://public.flourish.studio/country-flags/svg/ci.svg",1,1,13106
+2021,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,29,407641
+2021,"Cuba","Cuba","América Central",23.12,-82.35,"https://public.flourish.studio/country-flags/svg/cu.svg",1,202,2456697
+2021,"Curacao","Curaçao","América Central",12.1,-68.92,"https://public.flourish.studio/country-flags/svg/cw.svg",1,26,386628
+2021,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,2,3700
+2021,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,17,87966
+2021,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,2898,33392696
+2021,"Djibouti","Djibuti","África",11.58,43.15,"https://public.flourish.studio/country-flags/svg/dj.svg",1,72,835861
+2021,"Dominican Republic","República Dominicana","América Central",18.47,-69.9,"https://public.flourish.studio/country-flags/svg/do.svg",1,396,6851046
+2021,"Ecuador","Equador","América do Sul",-0.22,-78.5,"https://public.flourish.studio/country-flags/svg/ec.svg",1,82,1347460
+2021,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,303,3755566
+2021,"El Salvador","El Salvador","América Central",13.7,-89.2,"https://public.flourish.studio/country-flags/svg/sv.svg",1,17,61866
+2021,"Estonia","Estônia","Europa",59.43,24.72,"https://public.flourish.studio/country-flags/svg/ee.svg",1,8,91781
+2021,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,141,1393171
+2021,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,548,14412730
+2021,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,17425,236889523
+2021,"French Polynesia","Polinésia Francesa","Oceania",-17.53,-149.57,"https://public.flourish.studio/country-flags/svg/pf.svg",1,36,989406
+2021,"Georgia","Geórgia","Ásia",41.68,44.83,"https://public.flourish.studio/country-flags/svg/ge.svg",1,8,57550
+2021,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,22580,929690366
+2021,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,98,527097
+2021,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,137,950807
+2021,"Guatemala","Guatemala","América Central",14.62,-90.52,"https://public.flourish.studio/country-flags/svg/gt.svg",1,30,613471
+2021,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,7908,234596473
+2021,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,151,1244067
+2021,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,23,961586
+2021,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,48891,32496251
+2021,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,21,353599
+2021,"Iran","Irã","Ásia",35.7,51.42,"https://public.flourish.studio/country-flags/svg/ir.svg",1,7,65607
+2021,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,9,81013
+2021,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,274,7810803
+2021,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,7765,211567327
+2021,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,8412,97640197
+2021,"Jamaica","Jamaica","América Central",18,-76.8,"https://public.flourish.studio/country-flags/svg/jm.svg",1,2135,3000290
+2021,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,6181,175863530
+2021,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,1584,31423490
+2021,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,69,794719
+2021,"Kenya","Quênia","África",-1.28,36.82,"https://public.flourish.studio/country-flags/svg/ke.svg",1,1,475
+2021,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,90,615373
+2021,"Kyrgyzstan","Quirguistão","Ásia",42.87,74.6,"https://public.flourish.studio/country-flags/svg/kg.svg",1,61,1087122
+2021,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,110,2358422
+2021,"Latvia","Letônia","Europa",56.95,24.1,"https://public.flourish.studio/country-flags/svg/lv.svg",1,30,112912
+2021,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,278,3285165
+2021,"Liberia","Libéria","África",6.3,-10.8,"https://public.flourish.studio/country-flags/svg/lr.svg",1,1,5899
+2021,"Lithuania","Lituânia","Europa",54.68,25.32,"https://public.flourish.studio/country-flags/svg/lt.svg",1,695,545237
+2021,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,681,23697686
+2021,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,19,37837
+2021,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,15,401654
+2021,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,45,64633
+2021,"Mali","Mali","África",12.65,-8,"https://public.flourish.studio/country-flags/svg/ml.svg",1,2,9700
+2021,"Malta","Malta","Europa",35.88,14.5,"https://public.flourish.studio/country-flags/svg/mt.svg",1,2,6110
+2021,"Mauritius","Maurício","África",-20.15,57.48,"https://public.flourish.studio/country-flags/svg/mu.svg",1,6,150627
+2021,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,575,13135184
+2021,"Moldova","Moldávia","Europa",47,28.85,"https://public.flourish.studio/country-flags/svg/md.svg",1,1,20500
+2021,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,34,558931
+2021,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,20,292660
+2021,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,1,1800
+2021,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,29,208804
+2021,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,3978,21748498
+2021,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,4076,100690918
+2021,"New Caledonia","Nova Caledônia","Oceania",-22.27,166.45,"https://public.flourish.studio/country-flags/svg/nc.svg",1,29,730070
+2021,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,3869,107421957
+2021,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,6,23448
+2021,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,8316,358208939
+2021,"Oman","Omã","Ásia",23.62,58.58,"https://public.flourish.studio/country-flags/svg/om.svg",1,10,216165
+2021,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,228,4729700
+2021,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,530,1229836
+2021,"Paraguay","Paraguai","América do Sul",-25.27,-57.67,"https://public.flourish.studio/country-flags/svg/py.svg",1,6,133100
+2021,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,66,381825
+2021,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,11752,6956789
+2021,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,220,1828236
+2021,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,1261,12534832
+2021,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,37,469575
+2021,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,2090,27068715
+2021,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,455,1946973
+2021,"Rwanda","Ruanda","África",-1.95,30.05,"https://public.flourish.studio/country-flags/svg/rw.svg",1,1,6310
+2021,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,33,360089
+2021,"Serbia","Sérvia","Europa",44.83,20.5,"https://public.flourish.studio/country-flags/svg/rs.svg",1,30,168583
+2021,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,2120,69303809
+2021,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,15,275048
+2021,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,18237,491051199
+2021,"Solomon Islands","Ilhas Salomão","Oceania",-9.43,159.95,"https://public.flourish.studio/country-flags/svg/sb.svg",1,1,1800
+2021,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,14,205511
+2021,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,5290,30590156
+2021,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,734,8258449
+2021,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,1,28000
+2021,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,3429,123251013
+2021,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,1310,43249918
+2021,"Tajikistan","Tajiquistão","Ásia",38.55,68.77,"https://public.flourish.studio/country-flags/svg/tj.svg",1,13,383950
+2021,"Tanzania","Tanzânia","África",-6.8,39.28,"https://public.flourish.studio/country-flags/svg/tz.svg",1,12,153500
+2021,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,39349,77647101
+2021,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,156,193709
+2021,"Tunisia","Tunísia","África",36.8,10.18,"https://public.flourish.studio/country-flags/svg/tn.svg",1,2,68822
+2021,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,490,10840558
+2021,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,2122,30308610
+2021,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,4613,99885819
+2021,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,50714,1584138504
+2021,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,7322,237038300
+2021,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,383,6778260
+2021,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,2499,24460004
+2021,"Vanuatu","Vanuatu","Oceania",-17.73,168.32,"https://public.flourish.studio/country-flags/svg/vu.svg",1,1,30769
+2021,"Venezuela","Venezuela","América do Sul",10.48,-66.87,"https://public.flourish.studio/country-flags/svg/ve.svg",1,59,117511
+2021,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,209,271711
+2021,"Zambia","Zâmbia","África",-15.42,28.28,"https://public.flourish.studio/country-flags/svg/zm.svg",1,6,1429
+2021,"Zimbabwe","Zimbábue","África",-17.82,31.03,"https://public.flourish.studio/country-flags/svg/zw.svg",1,7,234479
+2021,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,370,676083
+2021,NA,NA,NA,NA,NA,NA,2,7,31103
+2022,"Albania","Albânia","Europa",41.32,19.82,"https://public.flourish.studio/country-flags/svg/al.svg",1,48,827000
+2022,"Angola","Angola","África",-8.83,13.22,"https://public.flourish.studio/country-flags/svg/ao.svg",1,550,2338271
+2022,"Antigua and Barbuda","Antígua e Barbuda","América Central",17.12,-61.85,"https://public.flourish.studio/country-flags/svg/ag.svg",1,3,101615
+2022,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,264,834984
+2022,"Armenia","Armênia","Ásia",40.17,44.5,"https://public.flourish.studio/country-flags/svg/am.svg",1,272,7311057
+2022,"Aruba","Aruba","América Central",12.52,-70.03,"https://public.flourish.studio/country-flags/svg/aw.svg",1,98,2102246
+2022,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,35915,1069585823
+2022,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,783,27581718
+2022,"Azerbaijan","Azerbaijão","Ásia",40.38,49.87,"https://public.flourish.studio/country-flags/svg/az.svg",1,129,4184528
+2022,"Bahamas","Bahamas","América Central",25.08,-77.35,"https://public.flourish.studio/country-flags/svg/bs.svg",1,211,5446909
+2022,"Bahrain","Bahrein","Ásia",26.23,50.57,"https://public.flourish.studio/country-flags/svg/bh.svg",1,199,705134
+2022,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,50881,39007204
+2022,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,54,1140451
+2022,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,898,29514723
+2022,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,147347,4193050303
+2022,"Belize","Belize","América Central",17.25,-88.77,"https://public.flourish.studio/country-flags/svg/bz.svg",1,2,58350
+2022,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,14,90826
+2022,"Bhutan","Butão","Ásia",27.47,89.63,"https://public.flourish.studio/country-flags/svg/bt.svg",1,80,1710463
+2022,"Bolivia","Bolívia","América do Sul",-16.5,-68.15,"https://public.flourish.studio/country-flags/svg/bo.svg",1,23,190809
+2022,"Botswana","Botsuana","África",-24.63,25.9,"https://public.flourish.studio/country-flags/svg/bw.svg",1,2,14123
+2022,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,4451,82365256
+2022,"Brunei","Brunei","Ásia",4.88,114.93,"https://public.flourish.studio/country-flags/svg/bn.svg",1,1,28040
+2022,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,1322,2492641
+2022,"Burkina Faso","Burkina Faso","África",12.37,-1.52,"https://public.flourish.studio/country-flags/svg/bf.svg",1,7,120893
+2022,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,631,9589899
+2022,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,3175,98938829
+2022,"Cape Verde","Cabo Verde","África",14.92,-23.52,"https://public.flourish.studio/country-flags/svg/cv.svg",1,6,163950
+2022,"Cayman Islands","Ilhas Cayman","América Central",19.3,-81.38,"https://public.flourish.studio/country-flags/svg/ky.svg",1,1,21150
+2022,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,1348,10512845
+2022,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,1346,31870925
+2022,"Costa Rica","Costa Rica","América Central",9.93,-84.08,"https://public.flourish.studio/country-flags/svg/cr.svg",1,2091,46253939
+2022,"Cote d'Ivoire","Costa do Marfim","África",6.82,-5.27,"https://public.flourish.studio/country-flags/svg/ci.svg",1,1,35450
+2022,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,226,651078
+2022,"Cuba","Cuba","América Central",23.12,-82.35,"https://public.flourish.studio/country-flags/svg/cu.svg",1,584,1525100
+2022,"Curacao","Curaçao","América Central",12.1,-68.92,"https://public.flourish.studio/country-flags/svg/cw.svg",1,32,671342
+2022,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,2,13091
+2022,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,31,198404
+2022,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,2510,58420391
+2022,"Djibouti","Djibuti","África",11.58,43.15,"https://public.flourish.studio/country-flags/svg/dj.svg",1,1017,16867352
+2022,"Dominica","Dominica","América Central",15.3,-61.4,"https://public.flourish.studio/country-flags/svg/dm.svg",1,1,19650
+2022,"Dominican Republic","República Dominicana","América Central",18.47,-69.9,"https://public.flourish.studio/country-flags/svg/do.svg",1,449,10398799
+2022,"Ecuador","Equador","América do Sul",-0.22,-78.5,"https://public.flourish.studio/country-flags/svg/ec.svg",1,934,5447687
+2022,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,428,9149950
+2022,"El Salvador","El Salvador","América Central",13.7,-89.2,"https://public.flourish.studio/country-flags/svg/sv.svg",1,24,71873
+2022,"Estonia","Estônia","Europa",59.43,24.72,"https://public.flourish.studio/country-flags/svg/ee.svg",1,2,8743
+2022,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,21,550376
+2022,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,1174,35283288
+2022,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,27394,347134618
+2022,"French Polynesia","Polinésia Francesa","Oceania",-17.53,-149.57,"https://public.flourish.studio/country-flags/svg/pf.svg",1,147,3112902
+2022,"Gambia","Gâmbia","África",13.45,-16.57,"https://public.flourish.studio/country-flags/svg/gm.svg",1,10,16254
+2022,"Georgia","Geórgia","Ásia",41.68,44.83,"https://public.flourish.studio/country-flags/svg/ge.svg",1,274,6454833
+2022,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,26490,970431675
+2022,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,31,383153
+2022,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,662,9094475
+2022,"Grenada","Granada","América Central",12.05,-61.75,"https://public.flourish.studio/country-flags/svg/gd.svg",1,2,11342
+2022,"Guatemala","Guatemala","América Central",14.62,-90.52,"https://public.flourish.studio/country-flags/svg/gt.svg",1,43,905168
+2022,"Guinea","Guiné","África",9.5,-13.7,"https://public.flourish.studio/country-flags/svg/gn.svg",1,1,1831
+2022,"Honduras","Honduras","América Central",14.1,-87.22,"https://public.flourish.studio/country-flags/svg/hn.svg",1,1,41708
+2022,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,15993,498341185
+2022,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,162,642526
+2022,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,562,20552428
+2022,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,58497,57839849
+2022,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,3571,2445148
+2022,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,149,141549
+2022,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,841,29679085
+2022,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,30264,861431464
+2022,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,7713,81450848
+2022,"Jamaica","Jamaica","América Central",18,-76.8,"https://public.flourish.studio/country-flags/svg/jm.svg",1,1434,2758930
+2022,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,7776,244936846
+2022,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,12002,261083984
+2022,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,508,18778940
+2022,"Kenya","Quênia","África",-1.28,36.82,"https://public.flourish.studio/country-flags/svg/ke.svg",1,50,119021
+2022,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,67,1512541
+2022,"Kyrgyzstan","Quirguistão","Ásia",42.87,74.6,"https://public.flourish.studio/country-flags/svg/kg.svg",1,1354,34270925
+2022,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,1228,24886243
+2022,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,338,5472582
+2022,"Lithuania","Lituânia","Europa",54.68,25.32,"https://public.flourish.studio/country-flags/svg/lt.svg",1,341,169989
+2022,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,275,8975330
+2022,"Macedonia, FYR","Macedônia do Norte","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/mk.svg",1,12,85840
+2022,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,2,40634
+2022,"Malawi","Maláui","África",-13.97,33.78,"https://public.flourish.studio/country-flags/svg/mw.svg",1,1,2877
+2022,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,946,20134375
+2022,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,22,173255
+2022,"Mauritius","Maurício","África",-20.15,57.48,"https://public.flourish.studio/country-flags/svg/mu.svg",1,25,627036
+2022,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,3090,52735450
+2022,"Moldova","Moldávia","Europa",47,28.85,"https://public.flourish.studio/country-flags/svg/md.svg",1,45,645212
+2022,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,220,6189873
+2022,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,205,3595112
+2022,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,2,17974
+2022,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,92,1052052
+2022,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,2734,9721133
+2022,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,15202,336503618
+2022,"New Caledonia","Nova Caledônia","Oceania",-22.27,166.45,"https://public.flourish.studio/country-flags/svg/nc.svg",1,94,1845549
+2022,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,12976,346247145
+2022,"Nicaragua","Nicarágua","América Central",12.13,-86.25,"https://public.flourish.studio/country-flags/svg/ni.svg",1,3,46800
+2022,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,1,4474
+2022,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,13475,543786454
+2022,"Oman","Omã","Ásia",23.62,58.58,"https://public.flourish.studio/country-flags/svg/om.svg",1,2,5720
+2022,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,18,215648
+2022,"Palestine","Palestina","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/ps.svg",1,30,720000
+2022,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,1233,5043362
+2022,"Papua New Guinea","Papua-Nova Guiné","Oceania",-9.45,147.18,"https://public.flourish.studio/country-flags/svg/pg.svg",1,5,85718
+2022,"Paraguay","Paraguai","América do Sul",-25.27,-57.67,"https://public.flourish.studio/country-flags/svg/py.svg",1,113,2491150
+2022,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,208,649234
+2022,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,68241,41940908
+2022,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,815,10863715
+2022,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,414,9024427
+2022,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,82,3365081
+2022,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,914,7670097
+2022,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,3110,53346292
+2022,"Rwanda","Ruanda","África",-1.95,30.05,"https://public.flourish.studio/country-flags/svg/rw.svg",1,12,147596
+2022,"Saint Lucia","Santa Lúcia","América Central",14,-61,"https://public.flourish.studio/country-flags/svg/lc.svg",1,1,29000
+2022,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,434,9617422
+2022,"Senegal","Senegal","África",14.73,-17.63,"https://public.flourish.studio/country-flags/svg/sn.svg",1,30,59200
+2022,"Serbia","Sérvia","Europa",44.83,20.5,"https://public.flourish.studio/country-flags/svg/rs.svg",1,8,69300
+2022,"Seychelles","Seicheles","África",-4.62,55.45,"https://public.flourish.studio/country-flags/svg/sc.svg",1,11,258300
+2022,"Sierra Leone","Serra Leoa","África",8.48,-13.23,"https://public.flourish.studio/country-flags/svg/sl.svg",1,2,78120
+2022,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,3319,84595222
+2022,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,62,1497275
+2022,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,46387,1501547252
+2022,"Solomon Islands","Ilhas Salomão","Oceania",-9.43,159.95,"https://public.flourish.studio/country-flags/svg/sb.svg",1,12,285600
+2022,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,176,6184243
+2022,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,9762,197421542
+2022,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,40654,1628421501
+2022,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,24,35377
+2022,"Sudan","Sudão","África",15.6,32.53,"https://public.flourish.studio/country-flags/svg/sd.svg",1,6,59826
+2022,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,6605,222770322
+2022,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,1519,54232930
+2022,"Tajikistan","Tajiquistão","Ásia",38.55,68.77,"https://public.flourish.studio/country-flags/svg/tj.svg",1,404,9327328
+2022,"Tanzania","Tanzânia","África",-6.8,39.28,"https://public.flourish.studio/country-flags/svg/tz.svg",1,30,557055
+2022,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,77623,456587443
+2022,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,221,273959
+2022,"Togo","Togo","África",6.12,1.22,"https://public.flourish.studio/country-flags/svg/tg.svg",1,6,1588
+2022,"Trinidad and Tobago","Trindade e Tobago","América Central",10.65,-61.52,"https://public.flourish.studio/country-flags/svg/tt.svg",1,2,34000
+2022,"Tunisia","Tunísia","África",36.8,10.18,"https://public.flourish.studio/country-flags/svg/tn.svg",1,4,109716
+2022,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,13471,54234607
+2022,"Uganda","Uganda","África",0.32,32.55,"https://public.flourish.studio/country-flags/svg/ug.svg",1,4,19600
+2022,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,3241,59490311
+2022,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,38343,1082674737
+2022,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,95414,3323152954
+2022,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,14845,459645612
+2022,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,1290,25456394
+2022,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,6801,145392208
+2022,"Vanuatu","Vanuatu","Oceania",-17.73,168.32,"https://public.flourish.studio/country-flags/svg/vu.svg",1,1,840
+2022,"Venezuela","Venezuela","América do Sul",10.48,-66.87,"https://public.flourish.studio/country-flags/svg/ve.svg",1,40,283545
+2022,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,690,3802363
+2022,"Zambia","Zâmbia","África",-15.42,28.28,"https://public.flourish.studio/country-flags/svg/zm.svg",1,3,12154
+2022,"Zimbabwe","Zimbábue","África",-17.82,31.03,"https://public.flourish.studio/country-flags/svg/zw.svg",1,23,488392
+2022,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,383,589370
+2022,NA,NA,NA,NA,NA,NA,1,3,12963
+2023,"Albania","Albânia","Europa",41.32,19.82,"https://public.flourish.studio/country-flags/svg/al.svg",1,1023,21002526
+2023,"Algeria","Argélia","África",36.75,3.05,"https://public.flourish.studio/country-flags/svg/dz.svg",1,5,59106
+2023,"Angola","Angola","África",-8.83,13.22,"https://public.flourish.studio/country-flags/svg/ao.svg",1,18,47441
+2023,"Antigua and Barbuda","Antígua e Barbuda","América Central",17.12,-61.85,"https://public.flourish.studio/country-flags/svg/ag.svg",1,3,13789
+2023,"Argentina","Argentina","América do Sul",-34.58,-58.67,"https://public.flourish.studio/country-flags/svg/ar.svg",1,336,2254238
+2023,"Aruba","Aruba","América Central",12.52,-70.03,"https://public.flourish.studio/country-flags/svg/aw.svg",1,245,4749586
+2023,"Australia","Austrália","Oceania",-35.27,149.13,"https://public.flourish.studio/country-flags/svg/au.svg",1,86437,2345074974
+2023,"Austria","Áustria","Europa",48.2,16.37,"https://public.flourish.studio/country-flags/svg/at.svg",1,710,25947551
+2023,"Bahamas","Bahamas","América Central",25.08,-77.35,"https://public.flourish.studio/country-flags/svg/bs.svg",1,303,8516333
+2023,"Bahrain","Bahrein","Ásia",26.23,50.57,"https://public.flourish.studio/country-flags/svg/bh.svg",1,226,2766982
+2023,"Bangladesh","Bangladesh","Ásia",23.72,90.4,"https://public.flourish.studio/country-flags/svg/bd.svg",1,49957,38820367
+2023,"Barbados","Barbados","América Central",13.1,-59.62,"https://public.flourish.studio/country-flags/svg/bb.svg",1,180,4984131
+2023,"Belarus","Bielorrússia","Europa",53.9,27.57,"https://public.flourish.studio/country-flags/svg/by.svg",1,5166,181221939
+2023,"Belgium","Bélgica","Europa",50.83,4.33,"https://public.flourish.studio/country-flags/svg/be.svg",1,175437,5073952278
+2023,"Belize","Belize","América Central",17.25,-88.77,"https://public.flourish.studio/country-flags/svg/bz.svg",1,16,404280
+2023,"Benin","Benim","África",6.48,2.62,"https://public.flourish.studio/country-flags/svg/bj.svg",1,12,124066
+2023,"Bermuda","Bermuda","América do Norte",32.28,-64.78,"https://public.flourish.studio/country-flags/svg/bm.svg",1,91,1575274
+2023,"Bhutan","Butão","Ásia",27.47,89.63,"https://public.flourish.studio/country-flags/svg/bt.svg",1,17,401239
+2023,"Bolivia","Bolívia","América do Sul",-16.5,-68.15,"https://public.flourish.studio/country-flags/svg/bo.svg",1,159,851108
+2023,"Brazil","Brasil","América do Sul",-15.78,-47.92,"https://public.flourish.studio/country-flags/svg/br.svg",1,36921,734736938
+2023,"British Virgin Islands","Ilhas Virgens Britânicas","América Central",18.42,-64.62,"https://public.flourish.studio/country-flags/svg/vi.svg",1,3,83060
+2023,"Brunei","Brunei","Ásia",4.88,114.93,"https://public.flourish.studio/country-flags/svg/bn.svg",1,80,1221792
+2023,"Bulgaria","Bulgária","Europa",42.68,23.32,"https://public.flourish.studio/country-flags/svg/bg.svg",1,1656,13070365
+2023,"Burkina Faso","Burkina Faso","África",12.37,-1.52,"https://public.flourish.studio/country-flags/svg/bf.svg",1,2,50705
+2023,"Cambodia","Camboja","Ásia",11.55,104.92,"https://public.flourish.studio/country-flags/svg/kh.svg",1,1514,14736680
+2023,"Cameroon","Camarões","África",3.87,11.52,"https://public.flourish.studio/country-flags/svg/cm.svg",1,4,28910
+2023,"Canada","Canadá","América do Norte",45.42,-75.7,"https://public.flourish.studio/country-flags/svg/ca.svg",1,39904,1613883104
+2023,"Cape Verde","Cabo Verde","África",14.92,-23.52,"https://public.flourish.studio/country-flags/svg/cv.svg",1,175,2774357
+2023,"Cayman Islands","Ilhas Cayman","América Central",19.3,-81.38,"https://public.flourish.studio/country-flags/svg/ky.svg",1,36,813877
+2023,"Chile","Chile","América do Sul",-33.45,-70.67,"https://public.flourish.studio/country-flags/svg/cl.svg",1,2805,32260970
+2023,"Colombia","Colômbia","América do Sul",4.6,-74.08,"https://public.flourish.studio/country-flags/svg/co.svg",1,3717,61885587
+2023,"Costa Rica","Costa Rica","América Central",9.93,-84.08,"https://public.flourish.studio/country-flags/svg/cr.svg",1,5840,135118616
+2023,"Cote d'Ivoire","Costa do Marfim","África",6.82,-5.27,"https://public.flourish.studio/country-flags/svg/ci.svg",1,180,1280685
+2023,"Croatia","Croácia","Europa",45.8,16,"https://public.flourish.studio/country-flags/svg/hr.svg",1,398,606941
+2023,"Cuba","Cuba","América Central",23.12,-82.35,"https://public.flourish.studio/country-flags/svg/cu.svg",1,821,4469554
+2023,"Curacao","Curaçao","América Central",12.1,-68.92,"https://public.flourish.studio/country-flags/svg/cw.svg",1,101,1906713
+2023,"Cyprus","Chipre","Europa/Ásia",35.17,33.37,"https://public.flourish.studio/country-flags/svg/cy.svg",1,24,119097
+2023,"Democratic Republic of Congo","República Democrática do Congo","África",-4.32,15.3,"https://public.flourish.studio/country-flags/svg/cd.svg",1,5,47700
+2023,"Denmark","Dinamarca","Europa",55.67,12.58,"https://public.flourish.studio/country-flags/svg/dk.svg",1,2206,71178293
+2023,"Djibouti","Djibuti","África",11.58,43.15,"https://public.flourish.studio/country-flags/svg/dj.svg",1,1637,38103029
+2023,"Dominica","Dominica","América Central",15.3,-61.4,"https://public.flourish.studio/country-flags/svg/dm.svg",1,4,65350
+2023,"Dominican Republic","República Dominicana","América Central",18.47,-69.9,"https://public.flourish.studio/country-flags/svg/do.svg",1,441,9801927
+2023,"Ecuador","Equador","América do Sul",-0.22,-78.5,"https://public.flourish.studio/country-flags/svg/ec.svg",1,1928,27410960
+2023,"Egypt","Egito","África",30.05,31.25,"https://public.flourish.studio/country-flags/svg/eg.svg",1,1523,41474649
+2023,"El Salvador","El Salvador","América Central",13.7,-89.2,"https://public.flourish.studio/country-flags/svg/sv.svg",1,64,208115
+2023,"Estonia","Estônia","Europa",59.43,24.72,"https://public.flourish.studio/country-flags/svg/ee.svg",1,40,968414
+2023,"Ethiopia","Etiópia","África",9.03,38.7,"https://public.flourish.studio/country-flags/svg/et.svg",1,225,4985191
+2023,"Fiji","Fiji","Oceania",-18.13,178.42,"https://public.flourish.studio/country-flags/svg/fj.svg",1,8,173646
+2023,"Finland","Finlândia","Europa",60.17,24.93,"https://public.flourish.studio/country-flags/svg/fi.svg",1,651,16145814
+2023,"France","França","Europa",48.87,2.33,"https://public.flourish.studio/country-flags/svg/fr.svg",1,34019,456439581
+2023,"French Polynesia","Polinésia Francesa","Oceania",-17.53,-149.57,"https://public.flourish.studio/country-flags/svg/pf.svg",1,270,4965442
+2023,"Gambia","Gâmbia","África",13.45,-16.57,"https://public.flourish.studio/country-flags/svg/gm.svg",1,1,5300
+2023,"Germany","Alemanha","Europa",52.52,13.4,"https://public.flourish.studio/country-flags/svg/de.svg",1,41156,1326133240
+2023,"Ghana","Gana","África",5.55,-0.22,"https://public.flourish.studio/country-flags/svg/gh.svg",1,157,795891
+2023,"Greece","Grécia","Europa",37.98,23.73,"https://public.flourish.studio/country-flags/svg/gr.svg",1,1420,15717791
+2023,"Grenada","Granada","América Central",12.05,-61.75,"https://public.flourish.studio/country-flags/svg/gd.svg",1,8,124311
+2023,"Guatemala","Guatemala","América Central",14.62,-90.52,"https://public.flourish.studio/country-flags/svg/gt.svg",1,163,3063558
+2023,"Guyana","Guiana","América do Sul",6.8,-58.15,"https://public.flourish.studio/country-flags/svg/gy.svg",1,27,518657
+2023,"Hong Kong","Hong Kong","Ásia",22.4,114.11,"https://public.flourish.studio/country-flags/svg/hk.svg",1,20481,613920265
+2023,"Hungary","Hungria","Europa",47.5,19.08,"https://public.flourish.studio/country-flags/svg/hu.svg",1,192,1236493
+2023,"Iceland","Islândia","Europa",64.15,-21.95,"https://public.flourish.studio/country-flags/svg/is.svg",1,190,7266487
+2023,"India","Índia","Ásia",28.6,77.2,"https://public.flourish.studio/country-flags/svg/in.svg",1,58577,99614863
+2023,"Indonesia","Indonésia","Ásia",-6.17,106.82,"https://public.flourish.studio/country-flags/svg/id.svg",1,13159,30186302
+2023,"Iran","Irã","Ásia",35.7,51.42,"https://public.flourish.studio/country-flags/svg/ir.svg",1,202,393593
+2023,"Iraq","Iraque","Ásia",33.33,44.4,"https://public.flourish.studio/country-flags/svg/iq.svg",1,768,793270
+2023,"Ireland","Irlanda","Europa",53.32,-6.23,"https://public.flourish.studio/country-flags/svg/ie.svg",1,53,1878132
+2023,"Israel","Israel","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/il.svg",1,50541,1266566319
+2023,"Italy","Itália","Europa",41.9,12.48,"https://public.flourish.studio/country-flags/svg/it.svg",1,11377,180726413
+2023,"Jamaica","Jamaica","América Central",18,-76.8,"https://public.flourish.studio/country-flags/svg/jm.svg",1,939,5691505
+2023,"Japan","Japão","Ásia",35.68,139.75,"https://public.flourish.studio/country-flags/svg/jp.svg",1,11968,332540670
+2023,"Jordan","Jordânia","Ásia",31.95,35.93,"https://public.flourish.studio/country-flags/svg/jo.svg",1,20678,319912778
+2023,"Kazakhstan","Cazaquistão","Ásia",51.17,71.42,"https://public.flourish.studio/country-flags/svg/kz.svg",1,8062,329302968
+2023,"Kenya","Quênia","África",-1.28,36.82,"https://public.flourish.studio/country-flags/svg/ke.svg",1,33,200701
+2023,"Kuwait","Kuwait","Ásia",29.37,47.97,"https://public.flourish.studio/country-flags/svg/kw.svg",1,142,2200832
+2023,"Kyrgyzstan","Quirguistão","Ásia",42.87,74.6,"https://public.flourish.studio/country-flags/svg/kg.svg",1,10458,429272487
+2023,"Laos","Laos","Ásia",17.97,102.6,"https://public.flourish.studio/country-flags/svg/la.svg",1,1449,32687006
+2023,"Latvia","Letônia","Europa",56.95,24.1,"https://public.flourish.studio/country-flags/svg/lv.svg",1,9,155184
+2023,"Lebanon","Líbano","Ásia",33.87,35.5,"https://public.flourish.studio/country-flags/svg/lb.svg",1,770,17330164
+2023,"Liberia","Libéria","África",6.3,-10.8,"https://public.flourish.studio/country-flags/svg/lr.svg",1,64,97699
+2023,"Libya","Líbia","África",32.88,13.17,"https://public.flourish.studio/country-flags/svg/ly.svg",1,4,55515
+2023,"Lithuania","Lituânia","Europa",54.68,25.32,"https://public.flourish.studio/country-flags/svg/lt.svg",1,830,5482283
+2023,"Luxembourg","Luxemburgo","Europa",49.6,6.12,"https://public.flourish.studio/country-flags/svg/lu.svg",1,11,614251
+2023,"Macao SAR, China","Macau","Ásia",NA,NA,"https://public.flourish.studio/country-flags/svg/mo.svg",1,601,25292127
+2023,"Macedonia, FYR","Macedônia do Norte","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/mk.svg",1,3,159630
+2023,"Madagascar","Madagascar","África",-18.92,47.52,"https://public.flourish.studio/country-flags/svg/mg.svg",1,80,870398
+2023,"Malaysia","Malásia","Ásia",3.17,101.7,"https://public.flourish.studio/country-flags/svg/my.svg",1,11645,328724691
+2023,"Maldives","Maldivas","Ásia",4.17,73.5,"https://public.flourish.studio/country-flags/svg/mv.svg",1,78,75205
+2023,"Mali","Mali","África",12.65,-8,"https://public.flourish.studio/country-flags/svg/ml.svg",1,25,343490
+2023,"Malta","Malta","Europa",35.88,14.5,"https://public.flourish.studio/country-flags/svg/mt.svg",1,7,221166
+2023,"Marshall Islands","Ilhas Marshall","Oceania",7.1,171.38,"https://public.flourish.studio/country-flags/svg/mh.svg",1,4,16000
+2023,"Mauritania","Mauritânia","África",18.07,-15.97,"https://public.flourish.studio/country-flags/svg/mr.svg",1,10,167100
+2023,"Mauritius","Maurício","África",-20.15,57.48,"https://public.flourish.studio/country-flags/svg/mu.svg",1,394,12773573
+2023,"Mexico","México","América do Norte",19.43,-99.13,"https://public.flourish.studio/country-flags/svg/mx.svg",1,12006,256781286
+2023,"Moldova","Moldávia","Europa",47,28.85,"https://public.flourish.studio/country-flags/svg/md.svg",1,207,6866891
+2023,"Mongolia","Mongólia","Ásia",47.92,106.92,"https://public.flourish.studio/country-flags/svg/mn.svg",1,394,8478238
+2023,"Morocco","Marrocos","África",34.02,-6.82,"https://public.flourish.studio/country-flags/svg/ma.svg",1,715,12326991
+2023,"Mozambique","Moçambique","África",-25.95,32.58,"https://public.flourish.studio/country-flags/svg/mz.svg",1,11,58663
+2023,"Myanmar","Mianmar","Ásia",16.8,96.15,"https://public.flourish.studio/country-flags/svg/mm.svg",1,2965,61271972
+2023,"Nepal","Nepal","Ásia",27.72,85.32,"https://public.flourish.studio/country-flags/svg/np.svg",1,7438,93149590
+2023,"Netherlands","Países Baixos","Europa",52.35,4.92,"https://public.flourish.studio/country-flags/svg/nl.svg",1,55002,1235586234
+2023,"New Caledonia","Nova Caledônia","Oceania",-22.27,166.45,"https://public.flourish.studio/country-flags/svg/nc.svg",1,201,3909750
+2023,"New Zealand","Nova Zelândia","Oceania",-41.3,174.78,"https://public.flourish.studio/country-flags/svg/nz.svg",1,13688,347408584
+2023,"Nicaragua","Nicarágua","América Central",12.13,-86.25,"https://public.flourish.studio/country-flags/svg/ni.svg",1,6,71830
+2023,"Nigeria","Nigéria","África",9.08,7.53,"https://public.flourish.studio/country-flags/svg/ng.svg",1,109,939420
+2023,"Norway","Noruega","Europa",59.92,10.75,"https://public.flourish.studio/country-flags/svg/no.svg",1,10508,415644094
+2023,"Oman","Omã","Ásia",23.62,58.58,"https://public.flourish.studio/country-flags/svg/om.svg",1,70,1081376
+2023,"Pakistan","Paquistão","Ásia",33.68,73.05,"https://public.flourish.studio/country-flags/svg/pk.svg",1,350,6027355
+2023,"Palestine","Palestina","Ásia",31.77,35.23,"https://public.flourish.studio/country-flags/svg/ps.svg",1,208,5205200
+2023,"Panama","Panamá","América Central",8.97,-79.53,"https://public.flourish.studio/country-flags/svg/pa.svg",1,656,13802521
+2023,"Papua New Guinea","Papua-Nova Guiné","Oceania",-9.45,147.18,"https://public.flourish.studio/country-flags/svg/pg.svg",1,4,86056
+2023,"Paraguay","Paraguai","América do Sul",-25.27,-57.67,"https://public.flourish.studio/country-flags/svg/py.svg",1,129,2630701
+2023,"Peru","Peru","América do Sul",-12.05,-77.05,"https://public.flourish.studio/country-flags/svg/pe.svg",1,1631,2786282
+2023,"Philippines","Filipinas","Ásia",14.6,120.97,"https://public.flourish.studio/country-flags/svg/ph.svg",1,115423,97154917
+2023,"Poland","Polônia","Europa",52.25,21,"https://public.flourish.studio/country-flags/svg/pl.svg",1,8915,177457937
+2023,"Portugal","Portugal","Europa",38.72,-9.13,"https://public.flourish.studio/country-flags/svg/pt.svg",1,461,10855750
+2023,"Qatar","Catar","Ásia",25.28,51.53,"https://public.flourish.studio/country-flags/svg/qa.svg",1,305,6549186
+2023,"Romania","Romênia","Europa",44.43,26.1,"https://public.flourish.studio/country-flags/svg/ro.svg",1,908,11507437
+2023,"Russia","Rússia","Europa/Ásia",55.75,37.6,"https://public.flourish.studio/country-flags/svg/ru.svg",1,8503,262393172
+2023,"Rwanda","Ruanda","África",-1.95,30.05,"https://public.flourish.studio/country-flags/svg/rw.svg",1,53,888912
+2023,"Samoa","Samoa","Oceania",-13.82,-171.77,"https://public.flourish.studio/country-flags/svg/ws.svg",1,2,6700
+2023,"Saudi Arabia","Arábia Saudita","Ásia",24.65,46.7,"https://public.flourish.studio/country-flags/svg/sa.svg",1,715,16992298
+2023,"Senegal","Senegal","África",14.73,-17.63,"https://public.flourish.studio/country-flags/svg/sn.svg",1,16,298966
+2023,"Serbia","Sérvia","Europa",44.83,20.5,"https://public.flourish.studio/country-flags/svg/rs.svg",1,81,205944
+2023,"Seychelles","Seicheles","África",-4.62,55.45,"https://public.flourish.studio/country-flags/svg/sc.svg",1,37,860305
+2023,"Sierra Leone","Serra Leoa","África",8.48,-13.23,"https://public.flourish.studio/country-flags/svg/sl.svg",1,67,283174
+2023,"Singapore","Singapura","Ásia",1.28,103.85,"https://public.flourish.studio/country-flags/svg/sg.svg",1,4385,118097751
+2023,"Slovakia","Eslováquia","Europa",48.15,17.12,"https://public.flourish.studio/country-flags/svg/sk.svg",1,429,15714997
+2023,"Slovenia","Eslovênia","Europa",46.05,14.52,"https://public.flourish.studio/country-flags/svg/si.svg",1,34801,1161885620
+2023,"Solomon Islands","Ilhas Salomão","Oceania",-9.43,159.95,"https://public.flourish.studio/country-flags/svg/sb.svg",1,1,5250
+2023,"Somalia","Somália","África",2.07,45.33,"https://public.flourish.studio/country-flags/svg/so.svg",1,133,98420
+2023,"South Africa","África do Sul","África",-25.7,28.22,"https://public.flourish.studio/country-flags/svg/za.svg",1,957,25711086
+2023,"South Korea","Coreia do Sul","Ásia",37.55,126.98,"https://public.flourish.studio/country-flags/svg/kr.svg",1,20824,526508626
+2023,"Spain","Espanha","Europa",40.4,-3.68,"https://public.flourish.studio/country-flags/svg/es.svg",1,92395,2973278716
+2023,"Sri Lanka","Sri Lanka","Ásia",6.92,79.83,"https://public.flourish.studio/country-flags/svg/lk.svg",1,23,407754
+2023,"Sudan","Sudão","África",15.6,32.53,"https://public.flourish.studio/country-flags/svg/sd.svg",1,23,115178
+2023,"Suriname","Suriname","América do Sul",5.83,-55.17,"https://public.flourish.studio/country-flags/svg/sr.svg",1,5,142740
+2023,"Sweden","Suécia","Europa",59.33,18.05,"https://public.flourish.studio/country-flags/svg/se.svg",1,18685,692440433
+2023,"Switzerland","Suíça","Europa",46.92,7.47,"https://public.flourish.studio/country-flags/svg/ch.svg",1,2232,79936515
+2023,"Tajikistan","Tajiquistão","Ásia",38.55,68.77,"https://public.flourish.studio/country-flags/svg/tj.svg",1,2527,40839542
+2023,"Tanzania","Tanzânia","África",-6.8,39.28,"https://public.flourish.studio/country-flags/svg/tz.svg",1,40,584007
+2023,"Thailand","Tailândia","Ásia",13.75,100.52,"https://public.flourish.studio/country-flags/svg/th.svg",1,155910,2465255010
+2023,"Timor","Timor","Ásia",-8.58,125.6,"https://public.flourish.studio/country-flags/svg/tl.svg",1,242,279001
+2023,"Togo","Togo","África",6.12,1.22,"https://public.flourish.studio/country-flags/svg/tg.svg",1,9,33960
+2023,"Trinidad and Tobago","Trindade e Tobago","América Central",10.65,-61.52,"https://public.flourish.studio/country-flags/svg/tt.svg",1,175,4179418
+2023,"Tunisia","Tunísia","África",36.8,10.18,"https://public.flourish.studio/country-flags/svg/tn.svg",1,16,426968
+2023,"Turkey","Turquia","Europa/Ásia",39.93,32.87,"https://public.flourish.studio/country-flags/svg/tr.svg",1,32614,297162765
+2023,"Turkmenistan","Turcomenistão","Ásia",37.95,58.38,"https://public.flourish.studio/country-flags/svg/tm.svg",1,13,268000
+2023,"Turks and Caicos Islands","Ilhas Turcas e Caicos","América Central",21.47,-71.13,"https://public.flourish.studio/country-flags/svg/tc.svg",1,3,41618
+2023,"Uganda","Uganda","África",0.32,32.55,"https://public.flourish.studio/country-flags/svg/ug.svg",1,3,52222
+2023,"Ukraine","Ucrânia","Europa",50.43,30.52,"https://public.flourish.studio/country-flags/svg/ua.svg",1,3187,78086466
+2023,"United Arab Emirates","Emirados Árabes Unidos","Ásia",24.47,54.37,"https://public.flourish.studio/country-flags/svg/ae.svg",1,34610,746709071
+2023,"United Kingdom","Reino Unido","Europa",54.08,-1.65,"https://public.flourish.studio/country-flags/svg/gb.svg",1,125314,4352080551
+2023,"United States","Estados Unidos","América do Norte",38.88,-90,"https://public.flourish.studio/country-flags/svg/us.svg",1,12388,332592054
+2023,"Uruguay","Uruguai","América do Sul",-34.85,-56.17,"https://public.flourish.studio/country-flags/svg/uy.svg",1,2200,43202333
+2023,"Uzbekistan","Uzbequistão","Ásia",41.32,69.25,"https://public.flourish.studio/country-flags/svg/uz.svg",1,28410,623469523
+2023,"Vanuatu","Vanuatu","Oceania",-17.73,168.32,"https://public.flourish.studio/country-flags/svg/vu.svg",1,10,155085
+2023,"Venezuela","Venezuela","América do Sul",10.48,-66.87,"https://public.flourish.studio/country-flags/svg/ve.svg",1,15,119627
+2023,"Vietnam","Vietnã","Ásia",21.03,105.85,"https://public.flourish.studio/country-flags/svg/vn.svg",1,3780,7794866
+2023,"Yemen","Iêmen","Ásia",15.35,44.2,"https://public.flourish.studio/country-flags/svg/ye.svg",1,2,22300
+2023,"Zambia","Zâmbia","África",-15.42,28.28,"https://public.flourish.studio/country-flags/svg/zm.svg",1,8,37155
+2023,"Zimbabwe","Zimbábue","África",-17.82,31.03,"https://public.flourish.studio/country-flags/svg/zw.svg",1,3,16376
+2023,NA,"Chéquia","Europa",NA,NA,"https://public.flourish.studio/country-flags/svg/cz.svg",1,396,1035781
+2023,NA,"Micronésia","Oceania",NA,NA,"https://public.flourish.studio/country-flags/svg/fm.svg",1,1,12800
+2023,NA,NA,NA,NA,NA,NA,4,2999,84690142
